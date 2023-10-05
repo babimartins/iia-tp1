@@ -1,0 +1,12 @@
+Para a execução do programa, deve ser utilizado Python3.
+
+Execução no Windows:
+    python ./main.py <algoritmo> <entrada> <parametro*>
+
+Execução no Linux:
+    python3 ./main.py <algoritmo> <entrada> <parametro*>
+
+Onde, como especificados no enunciado do trabalho:
+    <algoritmo>: é o algoritmo a ser utilizado para a solução
+    <entrada>: é a configuração inicial do 8-Puzzle
+    <parametro*>: é o parâmetro opcional de impressão PRINT
